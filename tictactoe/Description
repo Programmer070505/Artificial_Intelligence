@@ -1,0 +1,9 @@
+This uses the basic concepts of minimax. 
+The code's structure has been written down for you. 
+Some places have been left blank for you "TODO". 
+The AI is composed of two python codes: runner.py, and tictactoe.py. 
+"Runner.py" will run the visual parts, this code has been completed for you. 
+The "tictactoe.py" will contain the minimax algorithm. 
+Give the code a try and I hope this code acts as a good practice plan. Enjoy!
+
+Prerequisites: Knowing the Minimax technique and having a strong basis in OOP with python.
